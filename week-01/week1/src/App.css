@@ -1,0 +1,10 @@
+.todo-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.todo-list-panel {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
